@@ -26,18 +26,34 @@ Enthusiastic data, machine learning, AI developer with years of experience in de
 <img align="left" alt="Postgresql" width="30px" style="padding-right:10px;" src="https://upload.wikimedia.org/wikipedia/commons/2/29/Postgresql_elephant.svg" />
 <img align="left" alt="Redis" width="30px" style="padding-right:10px;" src="https://www.svgrepo.com/show/303460/redis-logo.svg" />
 <img align="left" alt="GoogleBigQuery" width="35px" style="padding-right:10px;" src="https://www.svgrepo.com/show/375551/bigquery.svg" />
+<br>
 
-<!--
-**stefanus-yudi-irwan/stefanus-yudi-irwan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## 📺 YouTube Videos
+<!-- BEGIN YOUTUBE-CARDS -->
+[![Neural Collaborative Filtering Model](https://ytcards.demolab.com/?id=nRS-oP0sQ64&title=Neural+Collaborative+Filtering+Model&lang=en&timestamp=1712845850&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=540)](https://www.youtube.com/watch?v=nRS-oP0sQ64)
+[![Machine Learning Product - ECommerce Product Experience Enhacement](https://ytcards.demolab.com/?id=2a7L24KaC_s&title=ECommerce+Product+Experience+Enhacement&lang=en&timestamp=1712845830&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=3785)](https://www.youtube.com/watch?v=2a7L24KaC_s)
+[![Approximate Nearest Neighbors](https://ytcards.demolab.com/?id=dRKPrvHxR84&title=Approximate+Nearest+Neighbors&lang=en&timestamp=1712845830&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=1281)](https://www.youtube.com/watch?v=dRKPrvHxR84)
+[![Lithofacies Classification Supervised ML Model](https://ytcards.demolab.com/?id=fHhoR0_QFao&title=Lithofacies+Classification+Supervised+ML+Model&lang=en&timestamp=1712845830&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=955)](https://www.youtube.com/watch?v=fHhoR0_QFao)
+[![Insurance Charge Data Analysis](https://ytcards.demolab.com/?id=MEXNTOee7Lg&title=Insurance+Charge+Data+Analysis&lang=en&timestamp=1712845830&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=790)](https://www.youtube.com/watch?v=MEXNTOee7Lg)
+[![Cyclistic Customer Data Analysis](https://ytcards.demolab.com/?id=5a_ZHGsX1tc&title=Cyclistic+Customer+Data+Analysis&lang=en&timestamp=1712845830&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=733)](https://www.youtube.com/watch?v=5a_ZHGsX1tc)
+<!-- END YOUTUBE-CARDS -->
 
-Here are some ideas to get you started:
+<!-- ## 📈 Tableau Dashboard
+![Tableau Dashboard Overview](https://public.tableau.com/app/profile/stefanus.yudi.irwan/viz/CreditConsumerDashboard/Dashboard2) -->
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 📊 Stats
+![Stefanus Yudi Irwan GitHub stats](https://github-readme-stats.vercel.app/api?username=stefanus-yudi-irwan&show_icons=true&theme=transparent)
+
+<!-- ![GitHub Streak](https://streak-stats.demolab.com?user=ForrestKnight&theme=gruvbox&border_radius=4.5) -->
+
+## 💻 Coding Journey
+<ul> 
+<li><strong>Final Thesis Project</strong></li>
+I actually start my coding journey when I tackled my undergraduate thesis entitle "The Development of Coal Mill Control Structure Using IEC 61499 Standard". In sort, i use IEC 61499 block diagram to simulate a differential equation representing a dinamic process of a coal mill, and its control structure to maintain the mill process meet requirements. I used 4DIAC as a platform for dinamic modelling instread of MATLAB. Eclipse SCADA for visualization, at the end i found that this Eclipse SCADA is based on Javascript, also I created node-Red version which turn out could replace the Eclipse SCANA. Finally, MQTT communication chanel to connect the dinamic simulation modeling to the visualization of the plant. 
+<li><strong>Pacmann Bootcamp</strong></li>
+After coding vacum (worked as engineer), I join a well known bootcamp in Indonesia to strengthen my coding skills and get coding environment. I focused to study about Data Analysis first, then stepped up to Machine Learning and Deep Learning. In the beginning I learn a lot about Python and SQL, then about Probability and Data visualization. I studied these first because these 4 module is the core of Data Analyst. Moving from Data Analyst I began to learn about traditional machine learning algorithm and deloyment. Finaly after basic and advance machine leanring, I learn cutting edge artifical intelligence technology such as deep learning and natural language processing.
+<li><strong>Operation Strategist: Indodana</strong></li>
+My first job as Analyst was in A leading Fintech Company in Indonesia. I worked closely with operation division as Strategist. Most of the time I involve in Operation Managerial meeting to direct the operation activity and regularly make an improvement. I use a lot of Google Sheet and Excel, hence I learned a lot about Excel and Google Sheet formula, which ease my work to form a report or analyze small scale dataset. I dealt a lot with loan data, and work closely with collector manager. Moreover I also work closely with operational quality assurance and improve its operational workflow together with QA manager. 
+<li><strong>Data Scientist: KG Media</strong></li>
+Now I am working as Data Scientist in KG Media, a well known media company in Indonesia. I am working closely with recommendation system, and the use of Artificial Intelligence to support other function in this company. I dealt with model development, its deployment and backend infrastructure to underpin the machine learning model to do respective particular tasks.
+<ul>
