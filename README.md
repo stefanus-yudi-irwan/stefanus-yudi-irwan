@@ -38,52 +38,6 @@ Enthusiastic data, machine learning, AI developer with years of experience in de
 [![Cyclistic Customer Data Analysis](https://ytcards.demolab.com/?id=5a_ZHGsX1tc&title=Cyclistic+Customer+Data+Analysis&lang=en&timestamp=1712845830&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=733)](https://www.youtube.com/watch?v=5a_ZHGsX1tc)
 <!-- END YOUTUBE-CARDS -->
 
- ## 📈 Tableau Dashboard
-
-<div style="display: flex; flex-direction: row;">
-    <a href="https://public.tableau.com/app/profile/stefanus.yudi.irwan/viz/CreditConsumerDashboard/Dashboard2" style="color: inherit; text-decoration: none">
-        <div style="display: flex; flex-direction: column; width: 250px; height: 215px; border-radius: 5px; background-color: black;">
-            <div style="width: 100%; text-align: center;">
-                <img src="https://public.tableau.com/static/images/Cr/CreditConsumerDashboard/Dashboard2/4_3.png" style="width: 250px; height: 150px; border-radius: 5px;"></img>
-            </div>
-            <div style="text-align: left;">
-                <p style="margin-left: 10px; color: white;  font-size: 17px"><strong>Credit Customer Dashboard</strong></p>
-            </div>
-            <div style="text-align: left">
-                <p style="margin-left: 10px; margin-top: -15px; color: white; font-size: 14px">33 view</p>
-            </div>
-        </div>
-    </a>
-    <a href="https://public.tableau.com/app/profile/stefanus.yudi.irwan/viz/MarketingDashboard_16731545118370/Dashboard1" style="color: inherit; text-decoration: none">
-    <div style="display: flex; flex-direction: column; width: 250px; height: 215px; border-radius: 5px; background-color: black; margin-left: 5px">
-        <div style="width: 100%; text-align: center;">
-            <img src="https://public.tableau.com/static/images/Ma/MarketingDashboard_16731545118370/Dashboard1/4_3.png" style="width: 250px; height: 150px; border-radius: 5px;"></img>
-        </div>
-        <div style="text-align: left;">
-            <p style="margin-left: 10px; color: white;  font-size: 17px"><strong>Marketing Dashboard</strong></p>
-        </div>
-        <div style="text-align: left">
-            <p style="margin-left: 10px; margin-top: -15px; color: white; font-size: 14px">38 view</p>
-        </div>
-    </div>
-    </a>
-    <a href="https://public.tableau.com/app/profile/stefanus.yudi.irwan/viz/PeopleAnalyticsDashboard_16722482030800/Dashboard1" style="color: inherit; text-decoration: none">
-    <div style="display: flex; flex-direction: column; width: 250px; height: 215px; border-radius: 5px; background-color: black; margin-left: 5px">
-        <div style="width: 100%; text-align: center;">
-            <img src="https://public.tableau.com/static/images/Pe/PeopleAnalyticsDashboard_16722482030800/Dashboard1/4_3.png" style="width: 250px; height: 150px; border-radius: 5px;"></img>
-        </div>
-        <div style="text-align: left;">
-            <p style="margin-left: 10px; color: white;  font-size: 17px"><strong>People Analytic Dashboard</strong></p>
-        </div>
-        <div style="text-align: left">
-            <p style="margin-left: 10px; margin-top: -15px; color: white; font-size: 14px">54 view</p>
-        </div>
-    </div>
-    </a>
-</div>
-
-
-
 ## 📊 Stats
 ![Stefanus Yudi Irwan GitHub stats](https://github-readme-stats.vercel.app/api?username=stefanus-yudi-irwan&show_icons=true&theme=transparent)
 
