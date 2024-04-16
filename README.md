@@ -40,7 +40,7 @@ Enthusiastic data, machine learning, AI developer with years of experience in de
 
  ## 📈 Tableau Dashboard
 
-<div style="display: flex; flex-direction: row">
+<div style="display: flex; flex-direction: row;">
     <a href="https://public.tableau.com/app/profile/stefanus.yudi.irwan/viz/CreditConsumerDashboard/Dashboard2" style="color: inherit; text-decoration: none">
         <div style="display: flex; flex-direction: column; width: 250px; height: 215px; border-radius: 5px; background-color: black;">
             <div style="width: 100%; text-align: center;">
