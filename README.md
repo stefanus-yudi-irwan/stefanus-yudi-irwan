@@ -60,7 +60,7 @@ Enthusiastic data, machine learning, AI developer with years of experience in de
             <img src="https://public.tableau.com/static/images/Ma/MarketingDashboard_16731545118370/Dashboard1/4_3.png" style="width: 250px; height: 150px; border-radius: 5px;"></img>
         </div>
         <div style="text-align: left;">
-            <p style="margin-left: 10px; color: white;  font-size: 17px"><strong><a href="" style="color: white; text-decoration: none">Marketing Dashboard</a></strong></p>
+            <p style="margin-left: 10px; color: white;  font-size: 17px"><strong>Marketing Dashboard</strong></p>
         </div>
         <div style="text-align: left">
             <p style="margin-left: 10px; margin-top: -15px; color: white; font-size: 14px">38 view</p>
@@ -73,7 +73,7 @@ Enthusiastic data, machine learning, AI developer with years of experience in de
             <img src="https://public.tableau.com/static/images/Pe/PeopleAnalyticsDashboard_16722482030800/Dashboard1/4_3.png" style="width: 250px; height: 150px; border-radius: 5px;"></img>
         </div>
         <div style="text-align: left;">
-            <p style="margin-left: 10px; color: white;  font-size: 17px"><strong><a href="" style="color: white; text-decoration: none">People Analytic Dashboard</a></strong></p>
+            <p style="margin-left: 10px; color: white;  font-size: 17px"><strong>People Analytic Dashboard</strong></p>
         </div>
         <div style="text-align: left">
             <p style="margin-left: 10px; margin-top: -15px; color: white; font-size: 14px">54 view</p>
