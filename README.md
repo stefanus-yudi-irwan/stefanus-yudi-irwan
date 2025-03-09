@@ -1,6 +1,6 @@
 # 🥾 Stefanus Yudi Irwan 
 
-**`Data Scientist (Engineer/Programmer/Hiker)`**
+**`AI Engineer (Engineer/Programmer/Hiker)`**
 
 Enthusiastic data, machine learning, AI developer with years of experience in developing AI, analyzing data and also skillful field engineer with years of working experiences with clients and stakeholders. Happy to conduct research in big data, and turn it into reliable insight, and AI applications.
 
